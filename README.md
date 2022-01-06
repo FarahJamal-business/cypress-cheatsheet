@@ -15,7 +15,7 @@ cheat sheet for cypress commands
 ### ```.should & Common Chainers```
 |function|what it does|
 |---------|-----------|
-|.should command used for asserting tests. (docs)\
+|.should |command used for asserting tests. (docs)|
 |"have.class" |check for class|
 |"have.css" |check for CSS style|
 |"be.visible" |check if visible. (docs)|
