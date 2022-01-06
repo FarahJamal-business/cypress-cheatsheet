@@ -89,4 +89,5 @@ cheat sheet for cypress commands
 |.scrollIntoView |scroll element into view|
 |.scrollTo| scroll to position in the window|
 
-# by FARAH JAMAL
+##### [dont forget to check this link for bdd,tdd](https://devhints.io/chai) 
+#### by FARAH JAMAL
