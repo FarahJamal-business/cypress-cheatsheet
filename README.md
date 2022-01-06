@@ -88,3 +88,5 @@ cheat sheet for cypress commands
 |cy.title |yeilds document.title object|
 |.scrollIntoView |scroll element into view|
 |.scrollTo| scroll to position in the window|
+
+# by FARAH JAMAL
