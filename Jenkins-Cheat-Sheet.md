@@ -50,20 +50,34 @@ $ sudo service jenkins start
 ```
 
 ## Different Types of Jenkins Jobs
+
 **Freestyle Job**
+
 - Jenkins provides the option of choosing from different types of jobs to build your project.
 Freestyle build jobs are general-purpose build jobs, which provides maximum flexibility. It can be used for any type of project.
-**Pipeline**T
-- his project runs the entire software development workflow as code. Instead of creating several jobs for each stage of software
+
+**Pipeline**
+
+- This project runs the entire software development workflow as code. Instead of creating several jobs for each stage of software
 development, you can now run the entire workflow as one code.
+
+
 **Multiconfiguration**
+
 - The multiconfiguration project allows you to run the same build job on different environments. It is used for testing an application in
 different environments.
+
+
 **Folder**
+
 - This project allows users to create folders to organize and categorize similar jobs in one folder or sub folder.
+  
 **GitHub Organisation**
+
 - This project scans your entire GitHub organization and creates Pipeline jobs for each repository containing a Jenkinsfile
+  
 **Multibranch Pipeline**
+
 - This project type lets you implement different Jenkinsfiles for different branches of the same project.
 
 ## Jenkins Pipeline 
